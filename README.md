@@ -22,4 +22,5 @@ Created in 2025.
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/85cec838-0a27-4b69-ad0e-9308fcb87fd5" />
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/2d7a8a7f-5247-4697-bbcc-7f835b61cfbe" />
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/50614ae2-c447-4b9b-bb80-6d710d29891b" />
+<img width="250" height="500" alt="image" src="https://github.com/user-attachments/assets/037cb473-9f3e-4339-82d2-897641646581" />
 <img width="8192" height="4096" alt="World_2026-08-03_14-14-22" src="https://github.com/user-attachments/assets/cf19e016-328a-4ff8-b7f8-7a77753fa691" />
