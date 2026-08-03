@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72d6fcabcadc7a24ba9d94d1be0b44da, type: 3}
+  m_Name: Hills
+  m_EditorClassIdentifier: 
+  biomeName: Hills
+  generatesNormally: 1
+  color: {r: 0.2509804, g: 0.6784314, b: 0.45855814, a: 1}
+  _spawnStrength: 1
+  temperature: 0.3
+  precipitation: 0.4
+  morality: 0.5
+  inlandness: 0.7
+  flatness: 0.2
+  elevation: 0.8
+  minHeight: 3
+  maxHeight: 30
+  _topLayer: earth
+  _middleLayer: soil
+  _treeDensity: 10
+  _features: []

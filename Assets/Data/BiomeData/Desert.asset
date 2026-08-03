@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72d6fcabcadc7a24ba9d94d1be0b44da, type: 3}
+  m_Name: Desert
+  m_EditorClassIdentifier: 
+  biomeName: Desert
+  generatesNormally: 1
+  color: {r: 0.856, g: 0.71518797, b: 0.29275197, a: 1}
+  _spawnStrength: 1.1
+  temperature: 0.9
+  precipitation: 0.2
+  morality: 0.5
+  inlandness: 0.5
+  flatness: 0.6
+  elevation: 0.2
+  minHeight: 3
+  maxHeight: 30
+  _topLayer: sand
+  _middleLayer: sand
+  _treeDensity: 200
+  _features: []

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72d6fcabcadc7a24ba9d94d1be0b44da, type: 3}
+  m_Name: Forest
+  m_EditorClassIdentifier: 
+  biomeName: Forest
+  generatesNormally: 1
+  color: {r: 0.068773985, g: 0.50200003, b: 0.14097826, a: 1}
+  _spawnStrength: 0.85
+  temperature: 0.5
+  precipitation: 0.5
+  morality: 0.5
+  inlandness: 0.5
+  flatness: 0.6
+  elevation: 0.5
+  minHeight: 3
+  maxHeight: 30
+  _topLayer: earth
+  _middleLayer: soil
+  _treeDensity: 2.5
+  _features:
+  - {fileID: 11400000, guid: c693118a98d279c4f8660350e0b4c954, type: 2}

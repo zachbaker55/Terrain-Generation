@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82ffeddaedd7f6546ac009850a2ad331, type: 3}
+  m_Name: Ledges
+  m_EditorClassIdentifier: 
+  _baseHeightCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: -5
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.15
+      value: 3
+      inSlope: 6.9798255
+      outSlope: 6.9798255
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.48316857
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.43555298
+      value: 6.6154823
+      inSlope: 55.976227
+      outSlope: 55.976227
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.15490091
+    - serializedVersion: 3
+      time: 0.45412982
+      value: 10.163318
+      inSlope: 25.588882
+      outSlope: 25.588882
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.7
+      value: 14
+      inSlope: 39.273136
+      outSlope: 39.273136
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.73639005
+    - serializedVersion: 3
+      time: 0.7480294
+      value: 15.1621475
+      inSlope: 75.48826
+      outSlope: 75.48826
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.7742112
+      value: 17.620846
+      inSlope: 21.122221
+      outSlope: 21.122221
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 1
+      outWeight: 0.33284804
+    - serializedVersion: 3
+      time: 0.93782353
+      value: 19.350542
+      inSlope: 13.225468
+      outSlope: 13.225468
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.93969727
+      value: 20.942337
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _flatnessMultiplier: 7
+  _ridgesMultiplier: 5
+  _noiseAmplitude: 1
+  _bottomLayer: limestone
